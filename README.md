@@ -11,9 +11,9 @@ A premium-feeling task management app built with React Native (Expo), featuring 
 |---|---|---|
 | ![Voice listening](./screenshots/04-voice-listening.jpg) | ![Notifications](./screenshots/07-notifications.jpg) | ![Dark mode](./screenshots/05-dark-mode.jpg) |
 
-| Search | Notifications | Bookmarks |Edit Task| Delete All Task
+| Search | Edit Task | Bookmarks | Delete All Task
 |---|---|---|
-| ![Search](./screenshots/06-search-overlay.jpg) | ![Edit Task](./screenshots/09-edit-task.jpg.) | ![Bookmarks](./screenshots/08-bookmarks.jpg) | ![Delete All Task](./screenshots/10-delete-all-task.jpeg) |
+| ![Search](./screenshots/06-search-overlay.jpg) | ![Edit Task](./screenshots/09-edit-task.jpg) | ![Bookmarks](./screenshots/08-bookmarks.jpg) | ![Delete All Task](./screenshots/10-delete-all-task.jpeg) |
 
 ## Features
 
