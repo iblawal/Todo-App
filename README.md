@@ -5,21 +5,22 @@ A premium-feeling task management app built with React Native (Expo), featuring 
 
 | Empty State | Task List | Add Task |
 |---|---|---|
-| ![Empty state](./screenshots/01-task-list-empty.png) | ![Task list](./screenshots/02-task-list-populated.png) | ![Add task](./screenshots/03-add-task-screen.png) |
+| ![Empty state](./screenshots/01-task-list-empty.jpeg) | ![Task list](./screenshots/02-task-list-populated.jpg) | ![Add task](./screenshots/03-add-task-screen.jpg) |
 
-| Voice Input | Voice Result | Dark Mode |
+| Voice Input | Notifications | Dark Mode |
 |---|---|---|
-| ![Voice listening](./screenshots/04-voice-listening.png) | ![Voice result](./screenshots/05-voice-result.png) | ![Dark mode](./screenshots/06-dark-mode.png) |
+| ![Voice listening](./screenshots/04-voice-listening.jpg) | ![Notifications](./screenshots/07-notifications.jpg) | ![Dark mode](./screenshots/05-dark-mode.jpg) |
 
-| Search | Notifications | Bookmarks |
+| Search | Notifications | Bookmarks |Edit Task| Delete All Task
 |---|---|---|
-| ![Search](./screenshots/07-search-overlay.png) | ![Notifications](./screenshots/08-notifications.png) | ![Bookmarks](./screenshots/09-bookmarks.png) |
+| ![Search](./screenshots/06-search-overlay.jpg) | ![Edit Task](./screenshots/09-edit-task.jpg.) | ![Bookmarks](./screenshots/08-bookmarks.jpg) | ![Delete All Task](./screenshots/10-delete-all-task.jpeg) |
 
 ## Features
 
 ### Core
 -  Add tasks with title + optional description
 -  Mark tasks complete/incomplete
+-  Edit Tasks
 -  Delete individual tasks, multiple selected tasks, or all tasks at once
 -  Full task list with visual distinction between completed/pending
 -  AsyncStorage persistence — tasks survive app restarts
